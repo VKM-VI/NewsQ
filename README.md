@@ -9,6 +9,9 @@ The NewsApp is a React.js-based news application that fetches data from an API t
 
 ![image](img/3.png)
 
+
+### Select Your country
+
 ![image](img/4.png)
 
 ![image](img/5.png)
