@@ -16,6 +16,8 @@ The NewsApp is a React.js-based news application that fetches data from an API t
 
 ![image](img/5.png)
 
+### Enable Dark mode
+
 ![image](img/6.png)
 
 ![image](img/7.png)
